@@ -1,0 +1,15 @@
+{
+  "name": "random-str-msg-las",
+  "version": "1.0.0",
+  "description": "Random String Mesagges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Alfredo Suarez <luisvls88@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
